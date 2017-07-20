@@ -10,13 +10,9 @@ Detailed description of the VisualBackProp can be found in: https://arxiv.org/ab
 Resized Image           |  Backprop result
 :-------------------------:|:-------------------------:
 ![Orig](https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat1.jpg) | ![Backprop result](https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat1.jpg)
-(https://...Dark.png)
 
 ## Example 2
 
 Resized Image           |  Backprop result
 :-------------------------:|:-------------------------:
-![Orig](https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat2.jpg) | ![Backprop result](https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat2.jpg)(https://...Dark.png)
-
-
-
+![Orig](https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat2.jpg) | ![Backprop result](https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat2.jpg)
