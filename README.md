@@ -6,12 +6,12 @@ Detailed description of the VisualBackProp can be found in: https://arxiv.org/ab
 
 # Results
 ## Example 1
-https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat1.jpg
+![Orig](https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat1.jpg)
 
-https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat1.jpg
+![Backprop result](https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat1.jpg)
 
 ## Example 2
-https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat2.jpg
+![Orig](https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat2.jpg)
 
-https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat2.jpg
+![Backprop result](https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat2.jpg)
 
