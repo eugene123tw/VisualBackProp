@@ -16,3 +16,9 @@ Resized Image           |  Backprop result
 Resized Image           |  Backprop result
 :-------------------------:|:-------------------------:
 ![Orig](https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_cat2.jpg) | ![Backprop result](https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_cat2.jpg)
+
+## Example 3
+
+Resized Image           |  Backprop result
+:-------------------------:|:-------------------------:
+![Orig](https://github.com/eugene123tw/VisualBackProp/blob/master/image/resized_photo.jpg) | ![Backprop result](https://github.com/eugene123tw/VisualBackProp/blob/master/image/mask_photo.jpg)

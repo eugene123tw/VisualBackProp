@@ -201,7 +201,7 @@ if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.abspath(os.path.dirname('__dir__')))
     IMG_DIR = BASE_DIR + '/image'
     MODEL_DIR = BASE_DIR + '/pretrained_model'
-    IMG_NAME = 'cat1.jpg'
+    IMG_NAME = 'photo.jpg'
 
 
     image = cv2.imread(IMG_DIR+'/'+IMG_NAME)
